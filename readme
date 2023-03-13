@@ -1,3 +1,6 @@
 ZinnBee is a project created for a design challenge at Elementer14 Community: Save The Bees
 
 This repo contains the source codes of Arduino codes running on MKR1310/1300 and Nicla modules.
+LoRa_WAN_Mockup: 
+  A initial breadboard bench-testing project: A temperature sensor HTS221 is used on IoT carrier board and MKR1300 sends the measured temperature via LoRA WAN to 
+  another MKR1300, which can display RTC time and temerature data received from LoRa WAN networking. A sd card logger is used for tracking the temperature and real time.
